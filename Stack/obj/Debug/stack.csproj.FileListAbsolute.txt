@@ -1,0 +1,7 @@
+C:\Users\bigna\source\repos\MyContainer\C-Sharp\CSharp-Exercise\stack\bin\Debug\stack.exe.config
+C:\Users\bigna\source\repos\MyContainer\C-Sharp\CSharp-Exercise\stack\bin\Debug\stack.exe
+C:\Users\bigna\source\repos\MyContainer\C-Sharp\CSharp-Exercise\stack\bin\Debug\stack.pdb
+C:\Users\bigna\source\repos\MyContainer\C-Sharp\CSharp-Exercise\stack\obj\Debug\stack.csprojAssemblyReference.cache
+C:\Users\bigna\source\repos\MyContainer\C-Sharp\CSharp-Exercise\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\bigna\source\repos\MyContainer\C-Sharp\CSharp-Exercise\stack\obj\Debug\stack.exe
+C:\Users\bigna\source\repos\MyContainer\C-Sharp\CSharp-Exercise\stack\obj\Debug\stack.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E4EFF06F-E33B-4C30-9F8C-201EEABB9243}</ProjectGuid>
+    <ProjectGuid>{70887A86-5DE9-4BD1-866B-F8A3F667CD83}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Stack</RootNamespace>
-    <AssemblyName>Stack</AssemblyName>
+    <RootNamespace>stack</RootNamespace>
+    <AssemblyName>stack</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
