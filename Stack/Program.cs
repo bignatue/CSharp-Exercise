@@ -40,8 +40,8 @@ namespace stack
 
             // using Pop() method.
             Basket b1 = fruits.Pop();
-            Double totalValue1 = b1.TotalFuit * b1.Value;
-            Console.WriteLine(b1.FruitName + " has " + b1.TotalFuit + " total pieces in the basket and cost of $" + b1.Value + " each with total value of $" + totalValue1);
+            //Double totalValue1 = b1.TotalFuit * b1.Value;
+            Console.WriteLine(b1.FruitName + " has " + b1.TotalFuit + " total pieces in the basket and cost of $" + b1.Value + " each with total value of $");
             Basket b2 = fruits.Pop();
             Double totalValue2 = b2.TotalFuit * b2.Value;
             Console.WriteLine(b2.FruitName + " has " + b2.TotalFuit + " total pieces in the basket and cost of $" + b2.Value + " each with total value of $" + totalValue2);
@@ -88,7 +88,7 @@ public class Basket
     public int TotalFuit {get; set; }
     public string FruitName { get; set; }
     public Double Value { get; set; }
-    public static Double totalValue1 { get; private set; }
+    // public static Double totalValue1 { get; private set; }
     public static Double totalValue2 { get; private set; }
     public static Double totalValue3 { get; private set; }
 
