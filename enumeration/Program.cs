@@ -20,9 +20,13 @@ namespace enumeration
         }
         public static void AllFiles()
         {
-            string z = @"C:\Users\bigna\OneDrive\Documents";
+            string z = @"C:\Users\bigna\Downloads";
             var f = Directory.GetFiles(z, "*.*", SearchOption.AllDirectories);
-            foreach (string y in f)
+
+            List<string> files = new List<string>(f);
+            files.Sort();
+
+            foreach (string y in files)
             {
                 Console.WriteLine(y);
             }
